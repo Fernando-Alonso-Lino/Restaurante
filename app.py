@@ -6,6 +6,7 @@ from modelos.cardapio.prato import Prato
 class MenuRestaurante:
     def __init__(self):
         self.logo = """
+        
  ██████  ███████ ███    ██  █████   ██████ 
 ██       ██      ████   ██ ██   ██ ██      
  ██████  █████   ██ ██  ██ ███████ ██      
