@@ -11,7 +11,7 @@ fernando viadinho
         """
         self.opcoes = [
             "adicionar fernando",
-            "Listar restaurantes",
+            "fernando",
             "Alternar estado do restaurante",
             "Adicionar avaliação",
             "Adicionar item ao cardápio",
