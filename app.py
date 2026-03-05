@@ -14,7 +14,7 @@ class MenuRestaurante:
  ██████  ███████ ██   ████ ██   ██  ██████ 
         """
         self.opcoes = [
-            "Cadastrar restaurante",
+            "adicionar fernando",
             "Listar restaurantes",
             "Alternar estado do restaurante",
             "Adicionar avaliação",
