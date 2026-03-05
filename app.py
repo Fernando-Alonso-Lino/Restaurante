@@ -7,11 +7,7 @@ class MenuRestaurante:
     def __init__(self):
         self.logo = """
         
- ██████  ███████ ███    ██  █████   ██████ 
-██       ██      ████   ██ ██   ██ ██      
- ██████  █████   ██ ██  ██ ███████ ██      
-      ██ ██      ██  ██ ██ ██   ██ ██      
- ██████  ███████ ██   ████ ██   ██  ██████ 
+fernando viadinho 
         """
         self.opcoes = [
             "Cadastrar restaurante",
